@@ -1,0 +1,6 @@
+{
+  "name": "MediSync AI",
+  "description": "AI-Powered Smart Healthcare Appointment, Intelligent Scheduling, and Patient Coordination Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+[
+  "backend/tests/test_auth.py::AuthTestCase::test_login_invalid_credentials",
+  "backend/tests/test_auth.py::AuthTestCase::test_patient_registration",
+  "backend/tests/test_auth.py::AuthTestCase::test_prevent_admin_public_registration",
+  "backend/tests/test_discovery.py::DiscoveryTestCase::test_specialty_filter_ranking",
+  "backend/tests/test_scheduling.py::SchedulingTestCase::test_appointment_cancellation",
+  "backend/tests/test_scheduling.py::SchedulingTestCase::test_double_booking_prevention",
+  "backend/tests/test_scheduling.py::SchedulingTestCase::test_past_date_prevention",
+  "backend/tests/test_scheduling.py::SchedulingTestCase::test_successful_booking"
+]
